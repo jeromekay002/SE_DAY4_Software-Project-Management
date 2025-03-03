@@ -60,24 +60,23 @@
       -> streamlining communication channels to reduce misunderstandings and keeps everyone aligned
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+      ** Understanding the problem helps by;
+         -> It enables an accurate estmation of the resources required for the development
+         -> it also allows for the design of a solution that is aimed in meeting the specific needs of the users.
+         ->helps all stakeholders to have a common understanding of what is trying to be accomplished.
 
-    ** Understanding the problem helps by;
-             -> It enables an accurate estmation of the resources required for the development
-             -> it also allows for the design of a solution that is aimed in meeting the specific needs of the users.
-             ->helps all stakeholders to have a common understanding of what is trying to be accomplished.
-
-## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
-    ** Our software solution is essentially a project management partner that simplifies and streamlines your work. It provides a clear overview of tasks, deadlines, and resources, enabling teams to stay aligned and focused. By centralizing communication and proactively highlighting potential challenges, it transforms the often overwhelming process of managing projects into a more intuitive and stress-free experience. In short, it empowers you to deliver high-quality outcomes on time and within budget without getting lost in technical complexities.
-    
+## 10. How would you describe your software solution in a way that captures its essence without diving into technical details? 
+      Imagine having thousands of photos on your phone and trying to find that one specific picture - the one from your cousins wedding, or a photo from your child hood. its a real headache, right? PhotoFind solves that problem. It's like a smart digital photo album that lets you easily organize and find your pictures. Instead of scollig endlessly, you cn just type in a keyword like 'birthday' or 'wedding' and PhotoFind instantly shows you all the relevant photos. So its about making your photo memories easy to find and enjoy, instead of being lost ia a disorganized pile.
+  
 ## 11 What are the main features or functionalities that make your software stand out?
-    Some of the key functionalities that our software has include;
-      -> Real time project dashboard which ensures everyone stays informed.
-      -> Allocation of tasks assignments by matching team members skills and availability to the project needs.
-      -> Build in chat(community), notifications and document sharing that emphasizes team collaboration and reduce miscommuincation.
-      ->Flexible processes that adapt to various project requirements, ensuring it fits your unique way of working.
+      PhotoFind standout features are;
+         -> Has like a memory lane feature which displays a slideshow of your photos based on  the dates, location or events.
+         -> Location organization where photos are organized by where they were taken on a map.
+         -> You can easily share and collaborate on photo collections.
 
 ## 12. What data is available regarding the market size and growth potential for your software? 
-
+      People are taking more photos than ever, especially on their phones. That means everyone needs a better way to organize them. The market for apps that help with this is huge and growing, because everyone wants to easily find and share their memories.
+      
 ## 13 How can understanding market trends inform your software’s positioning and development?
     ** -> By identiying user needs and what users are currently seeking 
     -> Market trends helps us identify what our competitors are doing and where we can diffrentiate ourselves
